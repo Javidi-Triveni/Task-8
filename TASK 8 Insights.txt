@@ -1,0 +1,11 @@
+TASK 8
+
+Sales Dashboard Insights-
+
+The West region generated the highest sales overall, followed by East and Central.
+
+Technology products contributed the largest share of total revenue.
+
+Sales show a clear seasonal peak in November and December.
+
+Furniture has strong sales volume but comparatively lower profit margins than Technology.
